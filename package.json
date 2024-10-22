@@ -1,0 +1,11 @@
+{
+  "name": "rrbackend",
+  "version": "1.0.0",
+  "description": "reel report backend code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yogendra kumar",
+  "license": "ISC"
+}
